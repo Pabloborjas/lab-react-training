@@ -1,0 +1,10 @@
+.card {
+    display: flex;
+    padding: 8px;
+}
+.card > img {
+    margin-right: 5px;
+}
+.card > p {
+margin: 8px 0;
+}
